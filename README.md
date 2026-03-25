@@ -22,3 +22,5 @@ Eventos (click, interação com usuário)
 Estruturas de dados (arrays)
 Persistência de dados no navegador
 Organização de código
+
+Acesse o projeto online: https://gustavo-arvani.github.io/lista-de-tarefas/
